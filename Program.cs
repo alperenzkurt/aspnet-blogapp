@@ -3,6 +3,8 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddControllersWithViews();
+
 builder.Services.AddDbContext<BlogContext>(options => {
     var config = builder.Configuration;
     var connectionString= config.GetConnectionString("sql_connection");
@@ -11,6 +13,7 @@ builder.Services.AddDbContext<BlogContext>(options => {
 
 var app = builder.Build();
 
-app.MapGet("/", () => "Hello World!");
+SeedData.TestVerileriniDoldur(app);
 
+app.MapDefaultControllerRoute();
 app.Run();

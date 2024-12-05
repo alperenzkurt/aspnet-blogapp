@@ -61,3 +61,8 @@ C:\Users\Ali Türkmen\Desktop\ASP.NET\aspnet-blogapp\bin\Debug\net7.0\runtimes\w
 C:\Users\Ali Türkmen\Desktop\ASP.NET\aspnet-blogapp\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\Ali Türkmen\Desktop\ASP.NET\aspnet-blogapp\obj\Debug\net7.0\aspnet-blogapp.csproj.AssemblyReference.cache
 C:\Users\Ali Türkmen\Desktop\ASP.NET\aspnet-blogapp\obj\Debug\net7.0\aspnet-b.BAD3D89A.Up2Date
+C:\Users\Ali Türkmen\Desktop\ASP.NET\aspnet-blogapp\obj\Debug\net7.0\aspnet-blogapp.sourcelink.json
+C:\Users\Ali Türkmen\Desktop\ASP.NET\aspnet-blogapp\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Ali Türkmen\Desktop\ASP.NET\aspnet-blogapp\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Ali Türkmen\Desktop\ASP.NET\aspnet-blogapp\obj\Debug\net7.0\aspnet-blogapp.RazorAssemblyInfo.cache
+C:\Users\Ali Türkmen\Desktop\ASP.NET\aspnet-blogapp\obj\Debug\net7.0\aspnet-blogapp.RazorAssemblyInfo.cs
