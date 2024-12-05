@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cXlDLKe1c/G/2tM6gd1jv1+KqEXvdecogVUSBLLthmQ=",
+  "Source": "aspnet-blogapp",
+  "BasePath": "_content/aspnet-blogapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
